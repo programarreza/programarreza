@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Md Shafikul islam</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 
-<img align="right" width="600" src="https://www.codebook.in/static/main/img/courses/mern.jpg"/>
+<img align="right" width="500" src="https://www.codebook.in/static/main/img/courses/mern.jpg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programarreza&label=Profile%20views&color=0e75b6&style=flat" alt="programarreza" /> </p>
 
 <p align="left"> <a href="https://twitter.com/md shafikul islam" target="blank"><img src="https://img.shields.io/twitter/follow/md shafikul islam?logo=twitter&style=for-the-badge" alt="md shafikul islam" /></a> </p>
