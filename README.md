@@ -1,5 +1,5 @@
 [![MasterHead](https://i.postimg.cc/sXrNkY9k/cover-reza22-1.jpg)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Md Shafikul islam</h1>
+<h1 align="center">Hi , I'm Md Shafikul islam</h1>
 <h3 align="center">I'm a passionate MERN stack developer with a love for building scalable and efficient web applications.</h3>
 
 <img align="right" width="500" src="https://www.codebook.in/static/main/img/courses/mern.jpg"/>
