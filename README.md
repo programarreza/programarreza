@@ -1,19 +1,20 @@
 [![MasterHead](https://i.postimg.cc/sXrNkY9k/cover-reza22-1.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Md Shafikul islam</h1>
-<h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
+<h3 align="center">I'm a passionate MERN stack developer with a love for building scalable and efficient web applications.</h3>
 
 <img align="right" width="500" src="https://www.codebook.in/static/main/img/courses/mern.jpg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programarreza&label=Profile%20views&color=0e75b6&style=flat" alt="programarreza" /> </p>
 
 <p align="left"> <a href="https://twitter.com/md shafikul islam" target="blank"><img src="https://img.shields.io/twitter/follow/md shafikul islam?logo=twitter&style=for-the-badge" alt="md shafikul islam" /></a> </p>
 
+- 🌐 MERN Stack (MongoDB, Express.js, React, Node.js)
+- 🌱 I’m currently learning **React**
+
 - 🔭 I’m currently working on [TaskNestle](https://tasknestle.web.app/)
 
-- 🌱 I’m currently learning **React, Tailwind**
+- 🔭 Previous projects [Remedy](https://remedy-d872a.web.app/)
 
-- 👯 I’m looking to collaborate on [Remedy](https://remedy-d872a.web.app/)
-
-- 🤝 I’m looking for help with [TechNexa](https://technexa-7d56c.web.app/)
+- 🔭 Previous projects [TechNexa](https://technexa-7d56c.web.app/)
 
 - 💬 Ask me about **MERN Stack**
 
