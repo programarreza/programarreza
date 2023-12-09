@@ -15,9 +15,6 @@
 - 🔭 Previous projects [Remedy](https://remedy-d872a.web.app/)
 
 - 🔭 Previous projects [TechNexa](https://technexa-7d56c.web.app/)
-
-- 💬 Ask me about **MERN Stack**
-
 - 📫 How to reach me **programarreza@gmail.com**
 - My Contact Number **01967310130**
 
