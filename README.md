@@ -1,4 +1,4 @@
-[![MasterHead](https://i.postimg.cc/sXrNkY9k/cover-reza22-1.jpg)](https://rishavchanda.io)
+[![MasterHead](https://i.postimg.cc/DZztRPcd/banner.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi , I'm Md Shafikul islam</h1>
 <h3 align="center">I'm a passionate MERN stack developer with a love for building scalable and efficient web applications.</h3>
 
