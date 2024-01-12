@@ -8,15 +8,15 @@
 <p align="left"> <a href="[https://twitter.com/md shafikul islam](https://twitter.com/ProgramarR26747)" target="blank"><img src="https://img.shields.io/twitter/follow/md shafikul islam?logo=twitter&style=for-the-badge" alt="md shafikul islam" /></a> </p>
 
 - 🌐 MERN Stack (MongoDB, Express.js, React, Node.js)
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.js & TypeScript**
 
 - 🔭 I’m currently working on [TaskNestle](https://tasknestle.web.app/)
 
 - 🔭 Previous projects [Remedy](https://remedy-d872a.web.app/)
 
 - 🔭 Previous projects [TechNexa](https://technexa-7d56c.web.app/)
-- 📫 How to reach me **programarreza@gmail.com**
-- My Contact Number **01967310130**
+- 📫 How to reach me **mdshafikulislam0130@gmail.com**
+- My Contact Number **+8801754846487**
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=programarreza&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=1000)](https://git.io/streak-stats)
 
