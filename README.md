@@ -1,20 +1,18 @@
 [![MasterHead](https://res.cloudinary.com/dudjn6epk/image/upload/v1734954068/yzlpjtdvkkwsatkclv6q.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi , I'm Md Shafikul islam</h1>
-<h3 align="center">I'm a passionate MERN stack developer with a love for building scalable and efficient web applications.</h3>
+<h3 align="center">I'm a passionate Full stack developer with a love for building scalable and efficient web applications.</h3>
 
 <img align="right" width="500" height="350" src="https://res.cloudinary.com/dudjn6epk/image/upload/v1734958327/sebj4dq5hl0pvz85xo4j.webp"/>
 
 
 <p align="left"> <a href="[https://twitter.com/md shafikul islam](https://twitter.com/ProgramarR26747)" target="blank"><img src="https://img.shields.io/twitter/follow/md shafikul islam?logo=twitter&style=for-the-badge" alt="md shafikul islam" /></a> </p>
 
-- 🌐 MERN Stack (MongoDB, Express.js, React, Node.js)
-- 🌱 I’m currently learning **Next.js & TypeScript**
+- 🌐 Full Stack (Next.js, React, Redux, TypeScript, Javascript, Tailwind, Nest.js, Node, Express, MongoDB, Postgresql, Prisma, Docker)
+- 🌱 I’m currently learning **Nest.js & Agora.io**
 
-- 🔭 I’m currently working on [TaskNestle](https://tasknestle.web.app/)
+- 🔭 I’m currently working on [Easy Shop](https://easyshopclient.vercel.app/)
 
-- 🔭 Previous projects [Remedy](https://remedy-d872a.web.app/)
-
-- 🔭 Previous projects [TechNexa](https://technexa-7d56c.web.app/)
+- 🔭 Previous projects [Pet Care](https://petcareclient.vercel.app/)
 - 📫 How to reach me **mdshafikulislam0130@gmail.com**
 - My Contact Number **+8801754846487**
 
