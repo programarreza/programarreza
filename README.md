@@ -20,12 +20,26 @@
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=programarreza&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=1000)](https://git.io/streak-stats)
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
+<h2 align="left">Connect with me:</h2>
+<br/>
+<!-- <p align="center">
 <a href="https://twitter.com/@mnalchity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mnalchity" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shafikul-islam11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="comming soon..." height="30" width="40" /></a>
 <a href="https://www.facebook.com/ProgrammerReza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="programmerreza" height="30" width="40" /></a>
-</p>
+</p> -->
+
+<div align="left"> 
+   <a href="https://www.linkedin.com/in/shafikul-islam11/">
+     <img height=40 align="center" title="LinkedIn || MD Shafikul Islam" src="https://cdn-icons-png.flaticon.com/128/145/145807.png"   
+  alt="Linkedin" />
+  </a>
+    <a href="https://www.facebook.com/ProgrammerReza/">
+     <img height=40 align="center" title="Facebook || MD Shafikul Islam" src="https://cdn-icons-png.flaticon.com/128/5968/5968764.png" alt="Facebook" />
+  </a>
+    <a href="https://wa.me/+8801754846487/">
+     <img height=40 align="center" title="Whatsapp || MD Alimuzzaman Haris" src="https://cdn-icons-png.flaticon.com/128/15713/15713434.png" alt="WhatsApp" />
+  </a>
+</div>
 
   <h2 align="left">⚒️ Languages-Frameworks-Tools</h2>
 <br/>
