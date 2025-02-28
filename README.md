@@ -22,7 +22,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nextjs,react,redux,typescript,javascript,tailwind," alt="Languages-Frameworks-Tools" />
-    <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,mongodb,postgresql,prisma,docker,vercel,firebase" alt="Languages-Frameworks-Tools" /><br>
+    <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,mongodb,postgresql,prisma,docker,aws,graphql,redis" alt="Languages-Frameworks-Tools" /><br>
 </div>
 
 <h2 align="left">Connect with me:</h2>
@@ -36,7 +36,7 @@
      <img height=40 align="center" title="Facebook || MD Shafikul Islam" src="https://cdn-icons-png.flaticon.com/128/5968/5968764.png" alt="Facebook" />
   </a>
     <a href="https://wa.me/+8801754846487/">
-     <img height=40 align="center" title="Whatsapp || MD Alimuzzaman Haris" src="https://cdn-icons-png.flaticon.com/128/15713/15713434.png" alt="WhatsApp" />
+     <img height=40 align="center" title="Whatsapp || MD Shafikul Islam" src="https://cdn-icons-png.flaticon.com/128/15713/15713434.png" alt="WhatsApp" />
   </a>
 </div>
 
