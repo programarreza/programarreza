@@ -10,9 +10,9 @@
 - 🌐 Full Stack (Next.js, React, Redux, TypeScript, Javascript, Tailwind, Nest.js, Node, Express, MongoDB, Postgresql, Prisma, Docker)
 - 🌱 I’m currently learning **Nest.js & Agora.io**
 
-- 🔭 I’m currently working on [Easy Shop](https://easyshopclient.vercel.app/)
+- 🔭 I’m currently working on [Rentyard](https://rentyard.com/)
 
-- 🔭 Previous projects [Pet Care](https://petcareclient.vercel.app/)
+- 🔭 Previous projects [BTAPR](https://btapr.org/)
 - 📫 How to reach me **mdshafikulislam0130@gmail.com**
 - My Contact Number **+8801754846487**
 
